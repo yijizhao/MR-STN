@@ -9,12 +9,14 @@ The official implementation of 'Traffic inflow and outflow forecasting by modeli
 - Metro
 - Taxi
 - Highway
+  
+Please download the [data](https://pan.baidu.com/s/1CWG_5W-kEzZ81ZAVZM8eQw?pwd=8888) and unzip it in the ./dataset directory.
 
 ## Usage ##
-python main.py --rid=1 --mode=stgcn --stack=3 --ed=4  --data=Metro
-python main.py --rid=1 --mode=astgcn --stack=3 --ed=4  --data=Metro
-python main.py --rid=1 --mode=stmgcn --stack=3 --ed=4  --data=Metro
-python main.py --rid=1 --mode=stsgcn --stack=3 --ed=4  --data=Metro
+- python main.py --rid=1 --mode=stgcn --stack=3 --ed=4  --data=Metro
+- python main.py --rid=1 --mode=astgcn --stack=3 --ed=4  --data=Metro
+- python main.py --rid=1 --mode=stmgcn --stack=3 --ed=4  --data=Metro
+- python main.py --rid=1 --mode=stsgcn --stack=3 --ed=4  --data=Metro
 
 ## Citing ##
 If our paper benefits to your research, please cite our paper using the bitex below:
