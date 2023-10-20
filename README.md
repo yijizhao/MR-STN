@@ -23,7 +23,7 @@ Please download the [data](https://pan.baidu.com/s/15mF4Bv67oeN_zHogtKK4Dg?pwd=m
 ## Citing
 If our paper benefits to your research, please cite our paper using the bitex below:
 
-    @article{zhao2022traffic,
+    @article{MRSTN,
         title={Traffic Inflow and Outflow Forecasting by Modeling Intra- and Inter-Relationship Between Flows},
         author={Zhao, Yiji and Lin, Youfang and Zhang, Yongkai and Wen, Haomin and Liu, Yunxiao and Wu, Hao and Wu, Zhihao and Zhang, Shuaichao and Wan, Huaiyu},
         journal={IEEE Transactions on Intelligent Transportation Systems},
