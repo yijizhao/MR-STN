@@ -1,5 +1,5 @@
 # MRSTN #
-This is an implementation of [Traffic Inflow and Outflow Forecasting by Modeling Intra- and Inter-Relationship Between Flows (TITS, 2022)](https://ieeexplore.ieee.org/abstract/document/9827999/). MR-STN is a novel deep spatio-temporal network framework for traffic inflows and outflows forecasting. We show the generality and superiority of MR-STN by implementing it with four state-of-the-art graph-based deep spatio-temporal models, including STGCN, ASTGCN, STMGCN, and STSGCN.
+This is an implementation of [Traffic Inflow and Outflow Forecasting by Modeling Intra- and Inter-Relationship Between Flows (TITS)](https://ieeexplore.ieee.org/abstract/document/9827999/). MR-STN is a novel deep spatio-temporal network framework for traffic inflows and outflows forecasting. We show the generality and superiority of MR-STN by implementing it with four state-of-the-art graph-based deep spatio-temporal models, including STGCN, ASTGCN, STMGCN, and STSGCN.
 
 <div  align="center">    
 <img src="MR-STN.png" width = "400" />
